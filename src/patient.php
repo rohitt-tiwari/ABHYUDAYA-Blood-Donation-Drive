@@ -175,7 +175,7 @@ if (isset($_POST['submit_btn'])) {
         </form>
     </div>
 </body>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD2WulC6fdCHMwJUypDOiEWUstYLT2iXxQ&v=3.exp&sensor=false&libraries=places,geometry"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=something&v=3.exp&sensor=false&libraries=places,geometry"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
 <script type="text/javascript">
     $(function() {
